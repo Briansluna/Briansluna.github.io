@@ -1,0 +1,21 @@
+Create A Website on GitHub 
+
+Step-by-step:
+
+Get a free user name at GitHub by going to github.com.
+Click “Sign up” you will be directed to enter your username, email, and password. 
+Click “Repositories”, and then click “new”.
+Create a repository name.
+
+Once repository has been created, create a folder where you will save 2 files in the same directory.
+Using you code editor, create: index.html file containing the following code:
+
+<html>
+    <h1>YourName's Portfolio</h1>
+    <img src="./YourFileName.jpg" />
+</html>
+
+Save the files using the code editor .
+Drag files from folder to your GitHub’s repository or upload them.
+Check by hitting your repository in the website…
+ Congratulations, you have created your own web page in GitHub!! 
